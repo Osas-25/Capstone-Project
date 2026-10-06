@@ -27,11 +27,6 @@ The on-time delivery rate stayed flat at about **44.6% across all 36 months**. T
 ## Other insight
 About **65% of the fleet is 2015 model-year trucks**, which points to an ageing-fleet risk alongside the flat delivery performance.
 
-## Files
-- `FILE-NAME.pbix`: the Power BI report
-- `FILE-NAME.pdf`: PDF export of all pages
-- `THEME-FILE-NAME.json`: custom theme
-- `executive-overview.png`: screenshot used above
 
 ## Tools
 Power BI Desktop, DAX, Power Query, relational data modelling
